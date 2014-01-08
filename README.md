@@ -1,4 +1,1 @@
-morlock-go
-==========
-
-A Layout Library for Termbox
+Morlock is a (highly immature) text widget library wrapped around Termbox to provide dynamic layouts for things like dashboards.   It does not concern itself with input, meaning you will have to drive the Termbox event loop yourself.
